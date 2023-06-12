@@ -16,46 +16,46 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 
 #: Command/Admin/CleansessionsCommand.php:149
-msgid "Create New Session"
+msgid "Criar nova sessão"
 msgstr ""
 
 #: Command/Admin/CleansessionsCommand.php:156
-msgid "This game session has expired."
+msgid "Esta sessão de jogo expirou."
 msgstr ""
 
 #: Command/Admin/CleansessionsCommand.php:213
 #: Command/System/InlinequeryCommand.php:124 Entity/Game.php:805
-msgid "Create"
+msgid "Criar"
 msgstr ""
 
 #: Command/System/CallbackqueryCommand.php:73
-msgid "Bad request!"
+msgid "Pedido incorreto!"
 msgstr ""
 
 #: Command/System/InlinequeryCommand.php:49 Entity/Game.php:634
 #: Entity/Game.php:708
-msgid "This game session is empty."
+msgid "Esta sessão de jogo está vazia."
 msgstr ""
 
 #: Command/User/StartCommand.php:60
-msgid "Hi!"
+msgid "Oi!"
 msgstr ""
 
 #: Command/User/StartCommand.php:61 Command/User/StartCommand.php:72
 #: Entity/Game.php:558 Entity/Game.php:787 Entity/Game.php:865
-msgid "Play"
+msgid "Começar"
 msgstr ""
 
 #: Command/User/StartCommand.php:61
-msgid "To begin, start a message with {USAGE} in any of your chats or click the {BUTTON} button and then select a chat to play in."
+msgid "Para começar, inicie uma mensagem com {USAGE} em qualquer um dos seus bate-papos ou clique no botão {BUTTON} e, em seguida, selecione um bate-papo para jogar."
 msgstr ""
 
 #: Entity/Game.php:232
-msgid "This game session has crashed."
+msgid "Esta sessão de jogo falhou."
 msgstr ""
 
 #: Entity/Game.php:464
-msgid "This game is already created!"
+msgid "Este jogo já está criado!"
 msgstr ""
 
 #: Entity/Game.php:477 Entity/Game.php:545 Entity/Game.php:623
